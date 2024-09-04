@@ -1,0 +1,33 @@
+# Ignore compiled files
+*.class
+*.jar
+*.war
+*.ear
+
+# Ignore build output
+/target/
+/build/
+
+# Ignore IDE files
+.idea/
+.vscode/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore logs
+*.log
+
+# Ignore dependencies
+/node_modules/
+/vendor/
+
+# Ignore temporary files
+*.tmp
+*.bak
+*.swp
+*.ipynb
+
+ddolib/__pycache__/
+.conda/Library/bin/libcrypto-3-x64.dll.conda_trash
